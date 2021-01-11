@@ -5,9 +5,9 @@
 ## Elena Zordan
 ### Student number 211663, University of Trento
 
-The analysis can be found in the _GEOEXAM_Elena_Zordan.ipynb_ file.
+The analysis can be found in the `GEOEXAM_Elena_Zordan.ipynb` file.
 
-The report of the analysis can be found in the _report.pdf_ file.
+The report of the analysis can be found in the `report.pdf` file.
 
 The following libraries are required to run the notebook (python 3.8.1):
 * contextily==1.0.1
